@@ -1,7 +1,7 @@
 Sequential Recommendation for Cold-start Users with Meta Transitional Learning(SIGIR2021)
 ============
 
-## CuRe
+## MetaTL
 
 Code of paper "[Sequential Recommendation for Cold-start Users with Meta Transitional Learning](http://people.tamu.edu/~jwang713/pubs/MetaTL-sigir2021)".
 
